@@ -38,6 +38,32 @@ The following animation shows the application's POST, PUT, and DELETE routes for
 ![13-orm-homework-demo-03](https://github.com/nava003/ADN_E-Commerce_Back_End/assets/32070635/630570cc-ba31-43e6-bd37-9e0565261023)
 
 ## Student Result
-The following video(s) demonstrates the application interacting with the user accordingly:  
-video  
-videos
+The following videos demonstrate Insomnia interacting with the routes accordingly:  
+
+This clip shows the application's GET routes that returns a list of all Categories, Products, and Tags in their respective routes:  
+
+https://github.com/nava003/ADN_E-Commerce_Back_End/assets/32070635/fecfeabc-3ef2-4ace-8c94-b027dc62fc9f
+
+---
+
+This clip shows the application's GET routes that returns a single Category, Product, and Tag in their respective routes:  
+
+https://github.com/nava003/ADN_E-Commerce_Back_End/assets/32070635/003c5ab3-a537-4050-ba12-169c01ee6d64
+
+---
+
+This clip shows the application's POST, PUT, and DELETE routes for Categories:  
+
+https://github.com/nava003/ADN_E-Commerce_Back_End/assets/32070635/8fd9c539-7d02-4803-a803-6661fc5b409b
+
+---
+
+This clip shows the application's POST, PUT, and DELETE routes for Products:  
+
+https://github.com/nava003/ADN_E-Commerce_Back_End/assets/32070635/dd780b62-6de2-47b2-9b9e-46af6d7e38bd
+
+---
+
+This clip shows the application's POST, PUT, and DELETE routes for Tags:  
+
+https://github.com/nava003/ADN_E-Commerce_Back_End/assets/32070635/0f5584e9-869b-4946-b516-201e483fd085
