@@ -1,4 +1,4 @@
-# ADN_E-Commerce_Back_End
+# E-Commerce_Back_End
 
 ## User Story
 > `AS A manager at an internet retail company`  
